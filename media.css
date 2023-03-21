@@ -1,0 +1,17 @@
+@media (max-width: 800px) {
+    .Box {
+        flex-direction: column;
+    }
+    table {
+        width: 420px;
+    }
+    .averageText {
+        font-size: 30px;
+    }
+    .X {
+        display: inline-block;
+    }
+    .flex {
+        flex-basis: 30%;
+    }
+}
